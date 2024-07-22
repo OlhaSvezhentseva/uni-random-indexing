@@ -1,5 +1,8 @@
 # Random Indexing
 
+## Note
+
+This project was developed on they university's GitLab, large files could not be uploaded to GitHub, and as they were in the history of commits, this repository does not have it.
 
 
 ## Description
